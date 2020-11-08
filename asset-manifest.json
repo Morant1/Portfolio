@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.b0a06481.chunk.css",
+    "main.js": "/Portfolio/static/js/main.0bd32803.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.0bd32803.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
+    "static/js/2.f5204706.chunk.js": "/Portfolio/static/js/2.f5204706.chunk.js",
+    "static/js/2.f5204706.chunk.js.map": "/Portfolio/static/js/2.f5204706.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.aa621b833edd7ba34a1e164f00e77505.js": "/Portfolio/precache-manifest.aa621b833edd7ba34a1e164f00e77505.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.b0a06481.chunk.css.map": "/Portfolio/static/css/main.b0a06481.chunk.css.map",
+    "static/js/2.f5204706.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.f5204706.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/angular.png": "/Portfolio/static/media/angular.c30969cd.png",
+    "static/media/angular2.png": "/Portfolio/static/media/angular2.d9bb87a3.png",
+    "static/media/appsus.png": "/Portfolio/static/media/appsus.39c0334b.png",
+    "static/media/css.png": "/Portfolio/static/media/css.1e8f9ddf.png",
+    "static/media/cv.pdf": "/Portfolio/static/media/cv.6ecbc922.pdf",
+    "static/media/eventribe.png": "/Portfolio/static/media/eventribe.e07dbce2.png",
+    "static/media/jquery.png": "/Portfolio/static/media/jquery.a5872891.png",
+    "static/media/js.png": "/Portfolio/static/media/js.c647884d.png",
+    "static/media/logo.jpg": "/Portfolio/static/media/logo.d24a5e65.jpg",
+    "static/media/meme.png": "/Portfolio/static/media/meme.43516fb1.png",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.0fbd04cb.png",
+    "static/media/nodejs.png": "/Portfolio/static/media/nodejs.4c6c0929.png",
+    "static/media/python.png": "/Portfolio/static/media/python.cab43a43.png",
+    "static/media/react.png": "/Portfolio/static/media/react.f6ee6c98.png",
+    "static/media/sass.png": "/Portfolio/static/media/sass.6597cc35.png",
+    "static/media/splash.png": "/Portfolio/static/media/splash.969a1992.png",
+    "static/media/sql.png": "/Portfolio/static/media/sql.8eb01c0a.png",
+    "static/media/vue.png": "/Portfolio/static/media/vue.2c89899b.png",
+    "static/media/vue2.png": "/Portfolio/static/media/vue2.c95d1245.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e440ee5a.js",
+    "static/js/2.f5204706.chunk.js",
+    "static/css/main.b0a06481.chunk.css",
+    "static/js/main.0bd32803.chunk.js"
+  ]
+}
